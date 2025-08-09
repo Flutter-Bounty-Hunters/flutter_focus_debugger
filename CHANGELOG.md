@@ -1,3 +1,7 @@
+## 0.1.2
+### Aug 9, 2025
+Update README with video, screenshots, and getting started.
+
 ## 0.1.1
 ### Aug 9, 2025
  * FIX: Debug focus bounds now correctly account for `FocusDebugger` sitting somewhere other than the screen origin.

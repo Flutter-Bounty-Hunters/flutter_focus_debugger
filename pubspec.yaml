@@ -1,6 +1,6 @@
 name: flutter_focus_debugger
 description: "Tools for inspecting and debugging focus behavior in Flutter apps."
-version: 0.1.1
+version: 0.1.2
 repository: https://github.com/Flutter-Bounty-Hunters/flutter_focus_debugger
 
 environment:
