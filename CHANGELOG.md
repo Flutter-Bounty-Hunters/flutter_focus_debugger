@@ -1,3 +1,7 @@
+## 0.1.3
+### Aug 9, 2025
+Update README - replace video with gif.
+
 ## 0.1.2
 ### Aug 9, 2025
 Update README with video, screenshots, and getting started.
